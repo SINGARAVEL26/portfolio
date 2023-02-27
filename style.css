@@ -234,3 +234,8 @@ li{
   padding-bottom: 200px;
   flex-direction: column;
 }
+
+.prof{
+  display: flex;
+  justify-content: space-between;
+}
