@@ -1,0 +1,236 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  height: 70px;
+  
+}
+
+li {
+  float: right;
+  height:70px
+}
+
+li a {
+  display: block;
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+  text-align: center;
+  padding: 28px 30px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color:rgb(171, 212, 180);;
+}
+p{
+  color: white;
+  background-color:#333 ;
+  font-family: monospace;
+  font-size: 20px;
+  padding-top:5px ;
+  padding-bottom:5px ;
+  padding-left: 100px;
+  padding-right: 5px;
+  
+}
+
+.lis{
+  display: flex;
+  justify-content: space-between;
+  background-color: #333;
+}
+body{
+  background-color: #333;
+}
+h1{
+  font-family: monospace;
+  color:azure;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 230px;
+  background-color: #b68d8d;
+  animation: forwards;
+  animation-direction: alternate-reverse;
+  text-shadow: 10px;
+  pointer-events: fill(#333);
+}
+.hand{
+  margin-top: 200px;
+}
+.tit{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.fd{
+  
+  background-color: rgb(175, 137, 210);
+}
+.title{
+  margin-bottom: 240px;
+  align-items: center;
+}
+img{
+  margin-left:50px;
+}
+.career{
+  display: flex;
+  align-items: center;
+
+}
+h3{
+  font-family: monospace;
+  font-size: 20px;
+  color:azure;
+  padding-left: 10px;
+}
+.car{
+  align-items: center;
+  margin-top: 100px;
+}
+table, th, td {
+  border:1px solid rgb(227, 197, 226);
+  color: azure;
+  justify-content:flex-start;
+}
+td{
+  text-align: center;
+  font-family: monospace;
+  color: azure;
+  font-size: 20px;
+}
+.edu{
+  display: flex;
+  align-items: center;
+
+}
+.eduico{
+  display: flex;
+  align-items: center;
+
+}
+table{
+  width: 70px;
+height: 200px;
+}
+h3{
+  font-size: 20px;
+}
+.tbl{
+  margin-left: 100px;
+}
+th{
+  background-color: rgb(101, 186, 101);
+  font-size: 20px;
+}
+.inte{
+  display:flex;
+  align-items:center
+}
+.int{
+  size: 20px;
+  margin-left: 120px;
+  color: azure;
+}
+.intp{
+  color: white;
+  background-color:#333 ;
+  font-family: monospace;
+  font-size: 20px;
+  padding-top:5px ;
+  padding-bottom:5px ;
+  padding-left: 130px;
+  padding-right: 40px;
+  margin-right: 150px;
+}
+.tech{
+  display:flex;
+  align-items:center;
+  flex-wrap: wrap;
+}
+
+
+.cp{
+  display: flex;
+  align-items: center;
+  padding-bottom: 10px;
+}
+.cpp{
+  display: flex;
+  align-items: center;
+  padding-bottom: 10px;
+}
+.py{
+  display: flex;
+  align-items: center;
+  padding-bottom: 10px;
+}
+.html{
+  display: flex;
+  align-items: center;
+  padding-bottom: 10px;
+}
+.cs{
+  display: flex;
+  align-items: center;
+  padding-bottom: 10px;
+}
+
+
+
+.checked {
+  color: rgb(227, 197, 226);
+}
+
+
+section{
+  padding-top: 150px;
+}
+.techn{
+  padding-bottom: 100px;
+}
+.start{
+  margin-left: 5  0px;
+  padding-top:5px ;
+  padding-bottom:5px ;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin-right: 50px;
+}
+.area{
+  display:flex;
+  align-items:center;
+  flex-wrap: wrap;
+
+}
+.ratings{
+  display: flex;
+  flex-direction: row;
+  margin-left: 60px;
+  margin-top: 25px;
+}
+
+
+.hobi-img{
+  margin-top: 25px;
+  margin-left: 60px;
+}
+li{
+  color: azure;
+  flex-direction: column;
+  padding-bottom: 15px;
+}
+.personal{
+  display: flex;
+  flex-direction: row;
+  padding-left: 100px;
+  margin-bottom: 200px;
+  padding-bottom: 200px;
+  flex-direction: column;
+}
